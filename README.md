@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @wmishie
+- Cyber security dev
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate with anyone in the same field

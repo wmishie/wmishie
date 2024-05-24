@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @wmishie
-- Cyber security dev
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning kotlin
+- 👋 Hi, I’m Miriam Wairimu
+- A Data Engineering and DevOps enthusiast.
+- 👀 I’m interested in Creating CI/CD pipelines with jenkins actions, implementing laC with Terraform and managing Kubernetes clusters for scalable developments.
 - 💞️ I’m looking to collaborate with anyone in the same field
 - 📫 How to reach me mainamiriam31@gmail.com
 - 😄 Pronouns: ...

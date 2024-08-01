@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miriam Wairimu
-- A Data Engineering and DevOps enthusiast.
+- A Data science enthusiast.
 - I am invested in machine learning and deep learning.
 - 👀 I’m interested in Creating CI/CD pipelines with jenkins actions, implementing laC with Terraform and managing Kubernetes clusters for scalable developments.
 - 💞️ I’m looking to collaborate with anyone in the same field

@@ -1,24 +1,39 @@
- # 👩‍💻 Miriam Wairimu Maina
+Hi there, I'm Miriam 👋
 
-🎯 Aspiring IT Professional | Passionate about System Automation, Security & Digital Infrastructure |Data Science nd AI
-📍 Based in Kenya | 🌐 [mainamiriam31@gmail.com](mailto:mainamiriam31@gmail.com)
+🚀 Aspiring Machine Learning Engineer | 🧠 Data Science Enthusiast | 🐍 Python Developer 
 
-## 🚀 About Me
-I’m especially interested in contributing to **medtech innovations** but still open to any field.
+Welcome to my GitHub! I'm passionate about using technology and machine learning to build intelligent, impactful solutions. I specialize in Python, deep learning, and data-driven applications. Below is a snapshot of what I do and love:
 
-## 🧠 Skills & Tools
-- 🔐 **IT Security** – Implemented security protocols during internship at IEBC to protect sensitive systems.
-- ⚙️ **PowerShell Scripting** – Automated routine processes, boosting productivity.
-- 📁 **Microsoft SharePoint** – Enhanced file organization and cross-team collaboration.
-- 🗃️ **FileMaker** – Used for internal data optimization and automation.
-- 🧑‍💻 **Programming** – Python, Java; used in projects and automation scripts.
-- 💽 **System Maintenance** – Regular evaluations, updates, and troubleshooting of hardware and software.
-- 📊 **Database Management** – Streamlined data access and reduced redundancy.
--**Data science and AI** - Supervised learning, deep Learning.
-  
-- ## 🌱 Currently Learning
+🔧 Technical Toolkit
 
-- 🏗️ Power Apps for internal tool building
-- 📦 Docker & cloud basics for system deployment
-- 📖 ISO 27001 principles and compliance frameworks
-- Data Science and AI
+Languages & Frameworks: Python, SQL, PowerShell, TensorFlow, PyTorch, Scikit-learn
+
+Concepts: NLP, CNN, RNN, LSTM, Model Evaluation, Feature Engineering
+
+Tools & Platforms: Git, VirtualBox, SharePoint, FileMaker, Pandas, NumPy, Matplotlib
+
+📌 Highlight Projects
+
+📈 Forex Price Prediction using LSTM
+
+Built and fine-tuned an LSTM model for forecasting foreign exchange rates using time series data.
+
+🥘 Recipe Prediction Android App
+
+Created a deep learning model (RNN/LSTM) that predicts food and instruction content, integrated into an Android app using Kotlin.
+
+🌿 Plant Disease Detection
+
+Developed a CNN-based model for identifying plant diseases through leaf image classification.
+
+🧾 Sentiment Analysis Tool
+
+Applied NLP techniques to classify sentiment in user reviews, with preprocessing and visualization included.
+
+⚙️ Python Automation Tool
+
+Automated data processing pipelines using Python and SQL with clean, modular design using OOP.
+
+🎓 Education
+
+Dedan Kimathi University of TechnologyBachelor of Science in Business Information Technology (2021–2024)

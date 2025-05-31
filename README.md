@@ -1,6 +1,6 @@
 Hi there, I'm Miriam 👋
 
-🚀 Aspiring Machine Learning Engineer | 🧠 Data Science Enthusiast | 🐍 Python Developer 
+🚀 Machine Learning Engineer | 🧠 Data Science Enthusiast | 🐍 Python Developer 
 
 Welcome to my GitHub! I'm passionate about using technology and machine learning to build intelligent, impactful solutions. I specialize in Python, deep learning, and data-driven applications. Below is a snapshot of what I do and love:
 
